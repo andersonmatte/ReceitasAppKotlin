@@ -5,4 +5,4 @@
 
 ## Aplicativo Android de receitas low carb, programado 100% em Kotlin. 
 
-[![Watch the video](imagens/player.png)](https://youtu.be/GJTsgTAYACs)
+![](/imagens/bloggif_5ab2625682c15.gif)
