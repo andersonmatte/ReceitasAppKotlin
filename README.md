@@ -1,7 +1,6 @@
 # ReceitasAppKotlin
 
-
-![alt text](https://raw.githubusercontent.com/andersonmatte/WebServiceRestKotlin/master/imagens/Kotlin.png)
+![alt text](/imagens/kotlin_android_kt.jpg)
 
 ## Aplicativo Android de receitas low carb, programado 100% em Kotlin. 
 
