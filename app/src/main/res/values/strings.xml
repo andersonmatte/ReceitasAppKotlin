@@ -1,0 +1,229 @@
+<resources>
+    <string name="app_name">Receitas Low carb</string>
+
+    <string name="ingredientes">
+        <b>Ingredientes</b>\n
+    </string>
+
+    <string name="modo_preparo">
+        <b>Modo de preparo</b>\n
+    </string>
+
+    <string name="ver_receita">Ver Receita</string>
+
+    <string name="receita_lasanha_titulo">Lasanha de berinjela simples</string>
+    <string name="receita_lasanha_descricao_simples">Nessa receita a berinjela não é recheio, é a própria massa, ou melhor é ela que vai no lugar da massa.</string>
+    <string name="ingredientes_lasanha" formatted="true">
+        <ul >\n
+        <li>2 berinjelas médias, descascadas e cortadas em fatias finas </li>\n
+        <li>2 tomates grandes, sem pele, cortados em rodelas finas </li>\n
+        <li>2 tomates sem pele e sem sementes, picadinhos </li>\n
+        <li>1/2 cebola média ralada </li>\n
+        <li>1 colher (chá) de manjericão </li>\n
+        <li>1 colher (café) de orégano </li>\n
+        <li>1 colher (sopa) de óleo de girassol </li>\n
+        <li>100 g de ricota amassadinha </li>\n
+        <li>4 colheres (sopa) de queijo parmesão ralado </li>\n
+        <li>Sal a gosto </li>\n
+        </ul>\n
+    </string>
+    <string name="modo_preparo_lasanha" formatted="true">
+        <ul >\n
+        <li><b>Passo 1:</b>\n Coloque 1/2 colher (sopa) de óleo em uma frigideira antiaderente.\n Frite as fatias de berinjela e vá colocando-as num refratário\n untado.</li>\n
+        <li></li>\n
+        <li><b>Passo 2:</b>\n Coloque uma camada de berinjelas, uma de ricota, uma de\n tomate cortado em rodelas, seguindo outra de berinjela até \n terminar, de preferência com a camada de berinjelas.</li>\n
+        <li></li>\n
+        <li><b>Passo 3:</b>\n Faça um molho refogando a cebola, o tomate as ervas e\n os temperos. Se necessário, acrescente um pouco de água.</li>\n
+        <li></li>\n
+        <li><b>Passo 4:</b>\n Despeje o molho por cima da lasanha e polvilhe com\n queijo ralado. Leve ao forno por 15 minutos.</li>\n
+        </ul>\n
+    </string>
+
+    <string name="receita_abobrinha_titulo">Abobrinhas recheadas com carne moída</string>
+    <string name="receita_abobrinha_descricao_simples">Receita tão rápida e fácil quanto saudável. Um jantar perfeito para quem está reduzindo a ingestão de carboidratos.</string>
+    <string name="ingredientes_abobrinha" formatted="true">
+        <ul>\n
+            <li>3 colheres (sopa) de óleo</li>\n
+            <li>2 dentes de alho espremidos</li>\n
+            <li>300 g de carne moída (patinho)</li>\n
+            <li>Sal e pimenta-do-reino</li>\n
+            <li>½ colher (chá) de orégano</li>\n
+            <li>½ colher (sopa) de raspas de limão</li>\n
+            <li>3 abobrinhas médias cortadas ao meio no sentido\n do comprimento</li>\n
+            <li>2 ovos</li>\n
+            <li>2 colheres (sopa) de requeijão cremoso</li>\n
+            <li>Parmesão ralado para polvilhar</li>\n
+        </ul>\n
+    </string>
+    <string name="modo_preparo_abobrinha" formatted="true">
+        <ul >\n
+        <li><b>Passo 1:</b>\n Aqueça o óleo em fogo médio e refogue o alho.\n  Acrescente a carne e refogue até ficar bem soltinha.\n  Fora do fogo, tempere com sal e pimenta-do-reino a gosto,\n  o orégano e as raspas.</li>\n
+        <li></li>\n
+        <li><b>Passo 2:</b>\n Retire parte da polpa das metades de abobrinha, formando\n "canoas" (cuidado para não perfurar as cascas), e misture\n a polpa picada ao recheio de carne, juntamente com os ovos\n levemente batidos e o requeijão.</li>\n
+        <li></li>\n
+        <li><b>Passo 3:</b>\n Recheie as "canoas", disponha em refratário, \n cubra com papel-alumínio e leve ao forno médio preaquecido (180ºC) por 20 minutos.</li>\n
+        <li></li>\n
+        <li><b>Passo 4:</b>\n Retire o papel, polvilhe o parmesão e leve de volta ao forno\n até gratinar.</li>\n
+        </ul>\n
+    </string>
+
+    <string name="receita_carne_moida_titulo">Carne moída a moda árabe low carb</string>
+    <string name="receita_carne_moida_descricao_simples">Uma receitas com muito sabor, vários ingredientes mas que dá muito pouco trabalho. Rica em proteína, baixa em carboidratos.</string>
+    <string name="ingredientes_carne_moida" formatted="true">
+        <ul>\n
+        <li>1 berinjela média com casca</li>\n
+        <li>1 colher (sopa) de óleo</li>\n
+        <li>1 cebola picada</li>\n
+        <li>4 dentes de alho picados</li>\n
+        <li>¼ de xícara (chá) de extrato de tomate</li>\n
+        <li>½ pimenta dedo-de-moça com sementes picadinha</li>\n
+        <li>Sal, pimenta síria e cominho a gosto</li>\n
+        <li>500 g de carne bovina moída</li>\n
+        <li>420 g de polpa de tomate</li>\n
+        <li>6 ovos</li>\n
+        <li>Azeite para regar</li>\n
+        <li>Salsa picadinha para salpicar</li>\n
+        </ul>\n
+    </string>
+    <string name="modo_preparo_carne_moida" formatted="true">
+        <ul >\n
+        <li><b>Passo 1:</b>\n Espete a berinjela com um garfo longo e,\n com cuidado, coloque-a
+        diretamente na chama do fogão,\n virando sempre, até a casca tostar,\n
+        por cerca de 10 minutos.</li>\n
+        <li><b>Passo 2:</b>\n Deixe amornar e retire a casca. Reserve a polpa.</li>\n
+        <li><b>Passo 3:</b>\n Em uma frigideira, aqueça o óleo\n e refogue a cebola e o alho.</li>\n
+        <li><b>Passo 4:</b>\n Adicione o extrato de tomate, a pimenta dedo-de-moça, sal,\n
+        pimenta síria e cominho a gosto e a carne e misture até secar\n
+        (uns 15 minutos).</li>\n
+        <li><b>Passo 5:</b>\n Acrescente as polpas de tomate e de berinjela assada, misture,\n
+        abaixe o fogo, tampe a frigideira e deixe cozinhar por cerca\n
+        de 20 minutos ou até o molho encorpar.</li>\n
+        <li><b>Passo 6:</b>\n Adicione os ovos um a um sobre a carne e mexa\n levemente nas claras
+        com um garfo para que\n elas penetrem no molho.</li>\n
+        <li><b>Passo 7:</b>\n Tampe a frigideira e deixe cozinhar por \n cerca de 5 minutos,
+        apenas para cozinhar as \n claras e deixar as gemas levemente cozidas.</li>\n
+        <li><b>Passo 8:</b>\n Regue com azeite, salpique salsa a gosto e sirva.</li>\n
+        </ul>\n
+    </string>
+
+    <string name="receita_sopa_abobora_titulo">Sopa de abóbora</string>
+    <string name="receita_sopa_abobora_descricao_simples">Melhor amiga de quem quer emagrecer. Aposte na sopa de abóbora para o jantar. Alimenta sem pesar.</string>
+    <string name="ingredientes_sopa_abobora" formatted="true">
+      <ul>\n
+        <li>1/2 moranga grande (1 kg)</li>\n
+        <li>3 colheres (sopa) de óleo</li>\n
+        <li>1 cebola pequena, picada</li>\n
+        <li>5 dentes de alho, picados</li>\n
+        <li>1 litro de caldo de legumes</li>\n
+        <li>1 xícara (chá) de folhas pequenas de manjericão</li>\n
+        <li>Sal, se necessário</li>\n
+      </ul>\n
+    </string>
+    <string name="modo_preparo_sopa_abobora" formatted="true">
+        <ul >\n
+            <li><b>Passo 1:</b>\n Com uma faca afiada, descasque a moranga, retire\n as sementes e corte-a em cubos.</li>\n
+            <li><b>Passo 2:</b>\n Aqueça o óleo em fogo alto na panela de pressão e \n doure a cebola e o alho. Acrescente a abóbora picada, o caldo \n e o manjericão, misture e deixe ferver.</li>\n
+            <li><b>Passo 3:</b>\n Abaixe o fogo, tampe a panela e cozinhe por 20 minutos,\n marcados após o início da fervura.</li>\n
+            <li><b>Passo 4:</b>\n Apague o fogo e espere a pressão esgotar naturalmente para \n abrir a panela. Amasse os pedaços de abóbora com as costas\n de uma concha, acerte o sal e sirva a sopa imediatamente.</li>\n
+        </ul>\n
+    </string>
+
+    <string name="receita_espaguete_abobrinha_titulo">Espaguette de abobrinha</string>
+    <string name="receita_espaguete_abobrinha_descricao_simples">Há quem diga que macarrão é desculpa para comer massa, logo, quando a vontade de espaguete bater forte vale "se enganar" com essa receita low carb.</string>
+    <string name="ingredientes_espaguete_abobrinha" formatted="true">
+        <ul>\n
+            <li>1 kg de abobrinha (+/- 5 médias)</li>\n
+            <li>1 cebola roxa picada (140 g)</li>\n
+            <li>1 colher (sopa) de alho picado</li>\n
+            <li>1 kg de tomate italiano sem pele cortado em cubos</li>\n
+            <li>bouquet garni: tomilho, louro e alecrim</li>\n
+            <li>sal, açúcar e pimenta-do-reino moída a gosto</li>\n
+            <li>1 fio de azeite</li>\n
+            <li>200 g de tomate cereja</li>\n
+            <li>30 g de manjericão</li>\n
+            <li>queijo coalho ralado, manjericão e azeite \n a gosto para finalizar</li>\n
+        </ul>\n
+    </string>
+    <string name="modo_preparo_espaguete_abobrinha" formatted="true">
+        <ul>\n
+            <li><b>Passo 1:</b>\n Passe as abobrinhas por um cortador de legumes em \n tiras finas para que fiquem no formato de espaguete e reserve.</li>\n
+            <li><b>Passo 2:</b>\n Numa panela em fogo médio refogue 1 cebola roxa picada \n com 1 colher (sopa) de alho picado sem deixar dourar.\n Adicione 1 kg de tomate italiano sem pele cortado em cubos,\n o bouquet garni e deixe reduzir o excesso de água, até \n formar um molho (concassé de tomate). \n Acerte o tempero com sal, açúcar e pimenta-do-reino moída \n a gosto. Apague o fogo e reserve.</li>\n
+            <li><b>Passo 3:</b>\n Numa frigideira aqueça 1 fio de azeite e acrescente 200 g \n de tomate cereja e 30 g de manjericão.\n Adicione o molho, o espaguete de abobrinha, misture. \n Apague o fogo e sirva em seguida em um prato, finalizando \n com queijo coalho ralado, folhas de manjericão e azeite a gosto.</li>\n
+        </ul>\n
+    </string>
+
+    <string name="receita_omelete_titulo">Omelete de forno</string>
+    <string name="receita_omelete_descricao_simples">Em formato de tortinha, esse omelete é uma opção saudável rica em proteína para fazer rapidinho no forno.</string>
+    <string name="ingredientes_omelete" formatted="true">
+        <ul>\n
+            <li>10 ovos</li>\n
+            <li>½ xícara (chá) de leite</li>\n
+            <li>2 colheres (sopa) de água</li>\n
+            <li>Sal e pimenta-do-reino</li>\n
+            <li>2 a 3 recheios a gosto (tomate, cheiro-verde, \n azeitona, peito de peru, blanquet, queijo, \n presunto, salame, bacon, linguiça, milho, ervilha)</li>\n
+            <li>Manteiga para untar</li>\n
+        </ul>\n
+    </string>
+    <string name="modo_preparo_omelete" formatted="true">
+        <ul>\n
+            <li><b>Passo 1:</b>\n Misture os ovos com o leite, a água e sal e \n pimenta-do-reino a gosto até ficar homogêneo \n (não bata).</li>\n
+            <li><b>Passo 2:</b>\n Em fôrmas de metal para cupcake ou fôrmas de \n empada untadas com manteiga, distribua a mistura \n de ovos, deixando cerca de 1 dedo de borda \n livre, e acrescente os recheios de sua preferência.</li>\n
+            <li><b>Passo 3:</b>\n Leve ao forno médio preaquecido (200°C) por \n 13 minutos, se gostar da omelete cremosa, ou por \n 20 minutos, se preferir mais firme. Desenforme \n e sirva em seguida.</li>\n
+        </ul>\n
+    </string>
+
+   <string name="receita_rocambole_titulo">Rocambole de carne com legumes</string>
+   <string name="receita_rocambole_descricao_simples">Carne e legumes, tem combinação mais delicinha? Veja como é fácil.</string>
+   <string name="ingredientes_rocambole" formatted="true">
+        <ul>\n
+            <li>1 peça de peito bovino (1 kg)</li>\n
+            <li>3 dentes de alho picados</li>\n
+            <li>1 pacote (65 g) de preparado para creme de cebola</li>\n
+            <li>2 talos de salsão (aipo) em tirinhas</li>\n
+            <li>1 cenoura em palitos</li>\n
+            <li>150 g de bacon em tiras</li>\n
+            <li>3 fatias de pão de fôrma trituradas</li>\n
+            <li>Folhas de 1 maço pequeno de escarola</li>\n
+            <li>1 omelete de 2 ovos cortada em tiras</li>\n
+            <li>1 cebola grande em gomos</li>\n
+            <li>3 colheres (sopa) de óleo</li>\n
+            <li>2 xícaras (chá) de suco de laranja</li>\n
+            <li>3 xícaras (chá) de água</li>\n
+            <li>Sal</li>\n
+        </ul>\n
+    </string>
+    <string name="modo_preparo_rocambole" formatted="true">
+        <ul>\n
+            <li><b>Passo 1:</b>\n Abra a peça de carne em manta e tempere com o alho e \n metade do preparado para creme de cebola. Reserve.</li>\n
+            <li><b>Passo 2:</b>\n Em uma tigela, misture o salsão com a cenoura e o \n bacon. Polvilhe com o restante da sopa de cebola, misture \n e junte as migalhas de pão.</li>\n
+            <li><b>Passo 3:</b>\n Distribua a escarola sobre a manta de carne e espalhe as \n tiras de omelete, a farofa de vegetais e bacon e \n a cebola. Enrole a partir do lado maior, feche as \n extremidades com palitos de madeira e amarre o rolo \n de carne com barbante culinário.</li>\n
+            <li><b>Passo 4:</b>\n Aqueça o óleo em uma panela grande e frite a carne, em fogo \n médio, até dourar de todos os lados. Adicione o suco \n de laranja e a água e verifique o sal.</li>\n
+            <li><b>Passo 5:</b>\n Cozinhe em fogo baixo, com a panela tampada e virando de \n vez em quando, por 1 hora e 30 minutos ou até amaciar.</li>\n
+        </ul>\n
+    </string>
+
+    <string name="receita_creme_couve_titulo">Creme de couve flor</string>
+    <string name="receita_creme_couve_descricao_simples">Para quem não quer se sentir de dieta, um creme com textura e sabor low carb.</string>
+    <string name="ingredientes_creme_couve" formatted="true">
+        <ul>\n
+            <li>4 xícaras (chá) de água fervente</li>\n
+            <li>500 g de couve-flor em buquês</li>\n
+            <li>10 dentes de alho sem casca cortados ao meio</li>\n
+            <li>Sal e pimenta-do-reino</li>\n
+            <li>50 g de parmesão ralado (e mais para polvilhar)</li>\n
+            <li>Cebolinha ou salsa picadinha para salpicar</li>\n
+        </ul>\n
+    </string>
+    <string name="modo_preparo_creme_couve" formatted="true">
+        <ul>\n
+            <li><b>Passo 1:</b>\n Leve a água com a couve-flor e o alho ao fogo, com a panela \n tampada, até amaciar (uns 10 minutos).</li>\n
+            <li><b>Passo 2:</b>\n Transfira a mistura para o copo do liquidificador, junte sal \n e pimenta-do-reino a gosto e o parmesão e bata até ficar \n homogêneo. Sirva em seguida, polvilhado com parmesão e \n salpicado com cebolinha ou salsa a gosto.</li>\n
+        </ul>\n
+    </string>
+
+    <string name="fonte" formatted="true">
+    Ana Maria Braga
+        https://anamariabraga.globo.com/acorda-menina/comida-e-bebida/emagrecer-carboidrato-low-carb
+    </string>
+
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#F5F5F5"
+        tools:context="br.com.andersonmatte.receitasapp.RocamboleCarneActivity">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@android:color/white"
+            android:elevation="2dp"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:src="@drawable/rocambolecarne"
+                android:scaleType="centerCrop"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="10dp"
+                android:text="@string/receita_rocambole_titulo"
+                android:textAppearance="?android:textAppearanceLarge"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="15dp"
+                android:text="@string/ingredientes"
+                android:textAppearance="?android:textAppearanceMedium"/>
+            <TextView
+                android:id="@+id/ingredientes_rocambole_tv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="10dp"
+                android:textSize="12dp"
+                android:text="@string/ingredientes_rocambole"
+                android:textAppearance="?android:textAppearanceListItemSmall"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="15dp"
+                android:text="@string/modo_preparo"
+                android:textAppearance="?android:textAppearanceMedium"/>
+            <TextView
+                android:id="@+id/modo_preparo_rocambole_tv"
+                android:layout_width="375dp"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"
+                android:paddingRight="1dp"
+                android:textSize="12dp"
+                android:text="@string/modo_preparo_rocambole"
+                android:textAppearance="?android:textAppearanceListItemSmall"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>
